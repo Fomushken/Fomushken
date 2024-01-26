@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!!
 I'm Marat, an aspiring backend developer in python. I specialize in [Your Skills], and I'm always excited about exploring new technologies.
 
 - Technologies and tools I work with include:
